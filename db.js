@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
-//mongodb+srv://davis:davis@cluster0.hujqu.mongodb.net/MadreContabilidad
+//mongodb+srv://davis123:davis123@cluster0.hujqu.mongodb.net/MadreContabilidad
 //mongodb://localhost/db_alumnos
-const url = 'mongodb+srv://davis:davis@cluster0.hujqu.mongodb.net/MadreContabilidad'
+const url = 'mongodb+srv://davis123:davis123@cluster0.hujqu.mongodb.net/MadreContabilidad'
 
 mongoose.connect(url)
 
